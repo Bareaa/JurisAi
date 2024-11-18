@@ -1,3 +1,3 @@
 # JurisAi
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Bareaa/JurisAi)
+[[Preview ⚡️](https://heroic-kashata-545976.netlify.app/)]
